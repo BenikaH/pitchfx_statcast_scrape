@@ -1,0 +1,4 @@
+change to class structure
+change to cElementTree
+write tests
+write statcast scraper
