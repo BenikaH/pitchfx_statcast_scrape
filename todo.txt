@@ -2,3 +2,5 @@ change to class structure
 change to cElementTree
 write tests
 write statcast scraper
+support for more types of gameids
+test get_links... need to know how to tests requests properly.
