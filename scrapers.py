@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from itertools import count
 from itertools import groupby
+from io import StringIO
 import xml.etree.cElementTree as et
 import pandas as pd
 
