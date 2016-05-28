@@ -6,7 +6,39 @@ from itertools import groupby
 import xml.etree.cElementTree as et
 import pandas as pd
 
-class MlbamGame:
+class Game:
+    mlabam_to_savant_team = {'ana': 'LAA', 
+                             'hou': 'HOU', 
+                             'oak': 'OAK', 
+                             'tor': 'TOR', 
+                             'atl': 'ATL', 
+                             'mil': 'MIL', 
+                             'sln': 'STL', 
+                             'chn': 'CHC', 
+                             'ari': 'ARI', 
+                             'lan': 'LAD', 
+                             'sfn': 'SF', 
+                             'cle': 'CLE', 
+                             'sea': 'SEA', 
+                             'mia': 'MIA', 
+                             'nyn': 'NYM', 
+                             'was': 'WSH', 
+                             'bal': 'BAL', 
+                             'sdn': 'SD', 
+                             'phi': 'PHI', 
+                             'pit': 'PIT', 
+                             'tex': 'TEX', 
+                             'tba': 'TB', 
+                             'bos': 'BOS', 
+                             'cin': 'CIN', 
+                             'col': 'COL', 
+                             'kca': 'KC', 
+                             'det': 'DET', 
+                             'min': 'MIN', 
+                             'cha': 'CWS', 
+                             'nya': 'NYY'
+                        }
+
     def __init__(self, gid, write_folder, include=None, exclude=None):
         if self._validate_id(gid):
             self.gid = gid
@@ -118,9 +150,31 @@ class MlbamGame:
             table.drop(group_key, axis=1, inplace=True)
             table.to_csv('{}{}.tsv'.format(rootpath, key), sep='\t', index=False)
             
+    def get_statcast_data(self):
+        year = self.gid[4:8]
+        month = self.gid[9:11]
+        day = self.gid[12:14]
+        away = mlabam_to_savant_team[self.gid[15:18]]
+        home = mlabam_to_savant_team[self.gid[22:25]]
+
+        date = '-'.join([year, month, day])
+        savant_url = 'https://baseballsavant.mlb.com/statcast_search/csv?all=true&hfPT=&hfZ=&hfGT=R%7C&hfPR=&hfAB=&stadium=&hfBBT=&hfBBL=&hfC=&season={}&player_type=batter&hfOuts=&pitcher_throws=&batter_stands=&start_speed_gt=&start_speed_lt=&perceived_speed_gt=&perceived_speed_lt=&spin_rate_gt=&spin_rate_lt=&exit_velocity_gt=&exit_velocity_lt=&launch_angle_gt=&launch_angle_lt=&distance_gt=&distance_lt=&batted_ball_angle_gt=&batted_ball_angle_lt=&game_date_gt={}&game_date_lt={}&team={}&position=&hfRO=&home_road=&hfInn=&min_pitches=0&min_results=0&group_by=name&sort_col=pitches&sort_order=desc&min_abs=0&xba_gt=&xba_lt=&px1=&px2=&pz1=&pz2=&type=details&'
+        home_url = savant_url.format(year, date, date, home)
+        statcast = requests.get(home_url)
+        home_table = pd.read_csv(StringIO(statcast.text))
+        away_url = savant_url.format(year, date, date, away)
+        statcast = requests.get(away_url)
+        away_table = pd.read_csv(StringIO(statcast.text))
+
+        return(pd.concat([home_table, away_table]))
+            
     def scrape(self):
         links = self.get_links_in_game(self.exclude, self.include)
         for link in links:
             tree = self.get_xml_tree(link)
             table = self.xml_to_table(tree)
             self.write_tables(table, self.write_folder)
+        
+        statcast_table = self.get_statcast_data()
+        statcast_table.to_csv('{}{}.tsv'.format(self.write_folder, 'statcast'), sep='\t', index=False)
+
