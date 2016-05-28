@@ -156,8 +156,8 @@ class Game:
         year = self.gid[4:8]
         month = self.gid[9:11]
         day = self.gid[12:14]
-        away = mlabam_to_savant_team[self.gid[15:18]]
-        home = mlabam_to_savant_team[self.gid[22:25]]
+        away = self.mlabam_to_savant_team[self.gid[15:18]]
+        home = self.mlabam_to_savant_team[self.gid[22:25]]
 
         date = '-'.join([year, month, day])
         savant_url = 'https://baseballsavant.mlb.com/statcast_search/csv?all=true&hfPT=&hfZ=&hfGT=R%7C&hfPR=&hfAB=&stadium=&hfBBT=&hfBBL=&hfC=&season={}&player_type=batter&hfOuts=&pitcher_throws=&batter_stands=&start_speed_gt=&start_speed_lt=&perceived_speed_gt=&perceived_speed_lt=&spin_rate_gt=&spin_rate_lt=&exit_velocity_gt=&exit_velocity_lt=&launch_angle_gt=&launch_angle_lt=&distance_gt=&distance_lt=&batted_ball_angle_gt=&batted_ball_angle_lt=&game_date_gt={}&game_date_lt={}&team={}&position=&hfRO=&home_road=&hfInn=&min_pitches=0&min_results=0&group_by=name&sort_col=pitches&sort_order=desc&min_abs=0&xba_gt=&xba_lt=&px1=&px2=&pz1=&pz2=&type=details&'
