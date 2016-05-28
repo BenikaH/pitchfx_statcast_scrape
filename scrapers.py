@@ -39,7 +39,9 @@ class Game:
                              'nya': 'NYY'
                         }
 
-    def __init__(self, gid, write_folder, include=None, exclude=None):
+    def __init__(self, gid, write_folder, include='default', exclude=None):
+        if include == 'default':
+            include = ['inning_all', 'boxscore.xml', 'game.xml']
         if self._validate_id(gid):
             self.gid = gid
             self.url = self._make_mlbam_base_path(gid)
