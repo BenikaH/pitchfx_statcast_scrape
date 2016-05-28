@@ -1,0 +1,2 @@
+b	event	gid	id	inning	inning_state	is_no_hitter	is_perfect_game	key	o	parent_key	parent_table	s	status	status_ind	text	top_inning
+0	strikeout	gid_2016_05_07_nynmlb_sdnmlb_1	2016_05_07_nynmlb_sdnmlb_1	9		N	N	0	3	0	plays	0	Final	F		F

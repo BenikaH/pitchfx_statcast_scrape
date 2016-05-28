@@ -1,0 +1,5 @@
+earned	end	event	event_num	gid	id	key	parent_key	parent_table	rbi	score	start	text
+T		Home Run	550	gid_2016_05_07_nynmlb_sdnmlb_1	431151	0	1	atbat	T	T		
+T		Home Run	556	gid_2016_05_07_nynmlb_sdnmlb_1	624424	1	2	atbat	T	T		
+	1B	Walk	563	gid_2016_05_07_nynmlb_sdnmlb_1	493316	2	3	atbat				
+		Groundout	573	gid_2016_05_07_nynmlb_sdnmlb_1	493316	3	5	atbat			1B	

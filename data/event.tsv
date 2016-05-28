@@ -1,0 +1,92 @@
+description	gid	inning	key	number	parent_key	parent_table	text
+Curtis Granderson flies out to center fielder Jon Jay.  	gid_2016_05_07_nynmlb_sdnmlb_1	1	0	9	0	team	
+David Wright walks.  	gid_2016_05_07_nynmlb_sdnmlb_1	1	1	18	0	team	
+Michael Conforto strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	1	2	28	0	team	
+Yoenis Cespedes homers (10) on a fly ball to left field.   David Wright scores.  	gid_2016_05_07_nynmlb_sdnmlb_1	1	3	40	0	team	
+Lucas Duda strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	1	4	48	0	team	
+Neil Walker lines out to left fielder Melvin Upton.  	gid_2016_05_07_nynmlb_sdnmlb_1	2	5	76	0	team	
+Asdrubal Cabrera grounds out, shortstop Alexei Ramirez to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	2	6	82	0	team	
+Kevin Plawecki doubles (1) on a line drive to center fielder Jon Jay.  	gid_2016_05_07_nynmlb_sdnmlb_1	2	7	86	0	team	
+Bartolo Colon homers (1) on a fly ball to left field.   Kevin Plawecki scores.  	gid_2016_05_07_nynmlb_sdnmlb_1	2	8	95	0	team	
+Curtis Granderson grounds out, shortstop Alexei Ramirez to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	2	9	102	0	team	
+David Wright walks.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	10	131	0	team	
+Michael Conforto walks.   David Wright to 2nd.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	11	142	0	team	
+Yoenis Cespedes grounds into a double play, shortstop Alexei Ramirez to second baseman Jemile Weeks to first baseman Wil Myers.   David Wright to 3rd.    Michael Conforto out at 2nd.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	12	149	0	team	
+Lucas Duda strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	13	156	0	team	
+Neil Walker grounds out to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	4	14	216	0	team	
+Asdrubal Cabrera doubles (7) on a line drive to right fielder Matt Kemp.  	gid_2016_05_07_nynmlb_sdnmlb_1	4	15	222	0	team	
+Kevin Plawecki grounds out, shortstop Alexei Ramirez to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	4	16	227	0	team	
+Bartolo Colon strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	4	17	234	0	team	
+Curtis Granderson strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	5	18	268	0	team	
+David Wright walks.  	gid_2016_05_07_nynmlb_sdnmlb_1	5	19	277	0	team	
+Michael Conforto strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	5	20	284	0	team	
+Yoenis Cespedes flies out to right fielder Matt Kemp.  	gid_2016_05_07_nynmlb_sdnmlb_1	5	21	291	0	team	
+Lucas Duda doubles (4) on a sharp line drive to right fielder Matt Kemp.  	gid_2016_05_07_nynmlb_sdnmlb_1	6	22	325	0	team	
+Neil Walker grounds out to first baseman Wil Myers.   Lucas Duda to 3rd.  	gid_2016_05_07_nynmlb_sdnmlb_1	6	23	331	0	team	
+Asdrubal Cabrera strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	6	24	340	0	team	
+James Shields intentionally walks Kevin Plawecki.  	gid_2016_05_07_nynmlb_sdnmlb_1	6	25	347	0	team	
+Bartolo Colon strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	6	26	353	0	team	
+Pitching Change: Brad Hand replaces James Shields, batting 9th.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	27	387	0	team	
+Curtis Granderson strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	28	395	0	team	
+David Wright singles on a sharp line drive to center fielder Jon Jay.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	29	399	0	team	
+With Michael Conforto batting, David Wright steals (3) 2nd base.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	30	406	0	team	
+Michael Conforto flies out to left fielder Melvin Upton.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	31	409	0	team	
+Brad Hand intentionally walks Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	32	416	0	team	
+Lucas Duda called out on strikes.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	33	426	0	team	
+Pitching Change: Carlos Villanueva replaces Brad Hand, batting 8th, replacing second baseman Jemile Weeks.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	34	463	0	team	
+Defensive Substitution: Adam Rosales replaces Jabari Blash, batting 9th, playing second base.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	35	465	0	team	
+Neil Walker lines out to right fielder Matt Kemp.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	36	469	0	team	
+Asdrubal Cabrera strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	37	477	0	team	
+Kevin Plawecki doubles (2) on a line drive to left fielder Melvin Upton.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	38	483	0	team	
+Offensive Substitution: Pinch-hitter Alejandro De Aza replaces Jerry Blevins.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	39	485	0	team	
+Alejandro De Aza grounds out, second baseman Adam Rosales to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	40	493	0	team	
+Curtis Granderson grounds out, second baseman Adam Rosales to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	41	544	0	team	
+David Wright homers (4) on a line drive to left field.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	42	551	0	team	
+Michael Conforto homers (5) on a fly ball to right field.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	43	557	0	team	
+Yoenis Cespedes walks.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	44	564	0	team	
+Lucas Duda flies out to center fielder Jon Jay.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	45	570	0	team	
+Neil Walker grounds out, second baseman Adam Rosales to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	46	574	0	team	
+Jon Jay lines out to center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	1	47	54	1	team	
+Wil Myers grounds out softly, second baseman Neil Walker to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	1	48	61	1	team	
+Matt Kemp lines out to third baseman David Wright.  	gid_2016_05_07_nynmlb_sdnmlb_1	1	49	66	1	team	
+Brett Wallace grounds out, third baseman David Wright to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	2	50	109	1	team	
+Melvin Upton strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	2	51	116	1	team	
+Alexei Ramirez grounds out, shortstop Asdrubal Cabrera to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	2	52	122	1	team	
+Derek Norris singles on a line drive to center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	53	165	1	team	
+Jemile Weeks pops out to shortstop Asdrubal Cabrera.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	54	172	1	team	
+James Shields singles on a ground ball to left fielder Michael Conforto.   Derek Norris to 2nd.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	55	179	1	team	
+Jon Jay homers (1) on a fly ball to right center field.    Derek Norris scores.    James Shields scores.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	56	193	1	team	
+Wil Myers flies out to right fielder Curtis Granderson.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	57	201	1	team	
+Matt Kemp strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	58	209	1	team	
+Brett Wallace walks.  	gid_2016_05_07_nynmlb_sdnmlb_1	4	59	244	1	team	
+Melvin Upton flies out to left fielder Michael Conforto.  	gid_2016_05_07_nynmlb_sdnmlb_1	4	60	249	1	team	
+Alexei Ramirez pops out to shortstop Asdrubal Cabrera in foul territory.  	gid_2016_05_07_nynmlb_sdnmlb_1	4	61	254	1	team	
+Derek Norris pops out to shortstop Asdrubal Cabrera.  	gid_2016_05_07_nynmlb_sdnmlb_1	4	62	259	1	team	
+Jemile Weeks called out on strikes.  	gid_2016_05_07_nynmlb_sdnmlb_1	5	63	300	1	team	
+James Shields singles on a ground ball to center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	5	64	305	1	team	
+Jon Jay flies out to center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	5	65	309	1	team	
+Wil Myers called out on strikes.  	gid_2016_05_07_nynmlb_sdnmlb_1	5	66	316	1	team	
+Matt Kemp grounds out sharply, second baseman Neil Walker to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	6	67	361	1	team	
+Brett Wallace grounds out to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	6	68	365	1	team	
+Melvin Upton singles on a line drive to center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	6	69	373	1	team	
+Alexei Ramirez flies out to left fielder Michael Conforto.  	gid_2016_05_07_nynmlb_sdnmlb_1	6	70	383	1	team	
+Derek Norris singles on a line drive to right fielder Curtis Granderson.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	71	433	1	team	
+Jemile Weeks out on a sacrifice bunt to pitcher Bartolo Colon.   Derek Norris to 2nd.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	72	438	1	team	
+Offensive Substitution: Pinch-hitter Jabari Blash replaces Brad Hand.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	73	441	1	team	
+Jabari Blash called out on strikes.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	74	449	1	team	
+Pitching Change: Jerry Blevins replaces Bartolo Colon, batting 9th.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	75	452	1	team	
+Jon Jay strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	76	459	1	team	
+Pitching Change: Addison Reed replaces Jerry Blevins, batting 9th, replacing  Alejandro De Aza.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	77	497	1	team	
+San Diego Padres second baseman Jemile Weeks left the game due to an injured leg.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	78	499	1	team	
+Wil Myers grounds out, second baseman Neil Walker to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	79	505	1	team	
+Matt Kemp strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	80	514	1	team	
+Brett Wallace singles on a fly ball to right fielder Curtis Granderson, deflected by center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	81	523	1	team	
+Melvin Upton singles on a line drive to center fielder Yoenis Cespedes.   Brett Wallace to 3rd.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	82	531	1	team	
+Alexei Ramirez strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	83	537	1	team	
+Pitching Change: Jeurys Familia replaces Addison Reed, batting 3rd, replacing left fielder Michael Conforto.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	84	578	1	team	
+Defensive switch from center field to left field for Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	85	580	1	team	
+Defensive Substitution: Juan Lagares replaces pitcher Addison Reed, batting 9th, playing center field.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	86	582	1	team	
+Derek Norris flies out to right fielder Curtis Granderson.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	87	592	1	team	
+Offensive Substitution: Pinch-hitter Alex Dickerson replaces Carlos Villanueva.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	88	594	1	team	
+Alex Dickerson grounds out, second baseman Neil Walker to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	89	598	1	team	
+Adam Rosales strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	90	606	1	team	

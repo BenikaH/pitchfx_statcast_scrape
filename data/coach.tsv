@@ -1,0 +1,22 @@
+first	gid	id	key	last	num	parent_key	parent_table	position	text
+Terry	gid_2016_05_07_nynmlb_sdnmlb_1	492632	0	Collins	10	0	team	manager	
+Kevin	gid_2016_05_07_nynmlb_sdnmlb_1	438989	1	Long	57	0	team	hitting_coach	
+Pat	gid_2016_05_07_nynmlb_sdnmlb_1	504331	2	Roessler	6	0	team	assistant_hitting_coach	
+Dan	gid_2016_05_07_nynmlb_sdnmlb_1	123951	3	Warthen	38	0	team	pitching_coach	
+Tom	gid_2016_05_07_nynmlb_sdnmlb_1	114961	4	Goodwin	22	0	team	first_base_coach	
+Tim	gid_2016_05_07_nynmlb_sdnmlb_1	123212	5	Teufel	11	0	team	third_base_coach	
+Dick	gid_2016_05_07_nynmlb_sdnmlb_1	121944	6	Scott	23	0	team	bench_coach	
+Ricky	gid_2016_05_07_nynmlb_sdnmlb_1	111191	7	Bones	25	0	team	bullpen_coach	
+Eric	gid_2016_05_07_nynmlb_sdnmlb_1	430002	8	Langill	78	0	team	bullpen_catcher	
+Dave	gid_2016_05_07_nynmlb_sdnmlb_1	534948	9	Racaniello	53	0	team	bullpen_catcher	
+Andy	gid_2016_05_07_nynmlb_sdnmlb_1	433477	10	Green	14	1	team	manager	
+Alan	gid_2016_05_07_nynmlb_sdnmlb_1	150043	11	Zinter	22	1	team	hitting_coach	
+Darren	gid_2016_05_07_nynmlb_sdnmlb_1	429382	12	Balsley	36	1	team	pitching_coach	
+Tarrik	gid_2016_05_07_nynmlb_sdnmlb_1	150031	13	Brock	20	1	team	first_base_coach	
+Glenn	gid_2016_05_07_nynmlb_sdnmlb_1	116027	14	Hoffman	30	1	team	third_base_coach	
+Mark	gid_2016_05_07_nynmlb_sdnmlb_1	118743	15	McGwire	25	1	team	bench_coach	
+Doug	gid_2016_05_07_nynmlb_sdnmlb_1	111135	16	Bochtler	45	1	team	bullpen_coach	
+Griffin	gid_2016_05_07_nynmlb_sdnmlb_1	475340	17	Benedict	81	1	team	bullpen_catcher	
+Justin	gid_2016_05_07_nynmlb_sdnmlb_1	449780	18	Hatcher	80	1	team	bullpen_catcher	
+Casey	gid_2016_05_07_nynmlb_sdnmlb_1	462390	19	Myers	65	1	team	major_league_staff_coordinator	
+Eddie	gid_2016_05_07_nynmlb_sdnmlb_1	427434	20	Rodriguez	7	1	team	coach	

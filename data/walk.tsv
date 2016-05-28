@@ -1,0 +1,9 @@
+batter_id	batter_name	event	gid	key	parent_key	parent_table	text
+477165	Wallace	243	gid_2016_05_07_nynmlb_sdnmlb_1	0	1	pitcher	
+493316	Cespedes	415	gid_2016_05_07_nynmlb_sdnmlb_1	1	4	pitcher	
+431151	Wright, D	17	gid_2016_05_07_nynmlb_sdnmlb_1	2	5	pitcher	
+431151	Wright, D	130	gid_2016_05_07_nynmlb_sdnmlb_1	3	5	pitcher	
+624424	Conforto	140	gid_2016_05_07_nynmlb_sdnmlb_1	4	5	pitcher	
+431151	Wright, D	276	gid_2016_05_07_nynmlb_sdnmlb_1	5	5	pitcher	
+608700	Plawecki	346	gid_2016_05_07_nynmlb_sdnmlb_1	6	5	pitcher	
+493316	Cespedes	563	gid_2016_05_07_nynmlb_sdnmlb_1	7	6	pitcher	

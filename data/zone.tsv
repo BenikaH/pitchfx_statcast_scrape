@@ -1,0 +1,14 @@
+ab	avg	bb	gid	hr	key	num	ops	parent_key	parent_table	rating	rbi	so	sweetness	text
+4	.000	0	gid_2016_05_07_nynmlb_sdnmlb_1	0	0	01	.000	0	sit	-1.000	0	1	.000	
+4	.250	0	gid_2016_05_07_nynmlb_sdnmlb_1	0	1	02	.500	0	sit	-.084	0	1	.916	
+1	.000	0	gid_2016_05_07_nynmlb_sdnmlb_1	0	2	03	.000	0	sit	-1.000	0	1	.000	
+1	.000	0	gid_2016_05_07_nynmlb_sdnmlb_1	0	3	04	.000	0	sit	-1.000	0	0	.000	
+9	.111	0	gid_2016_05_07_nynmlb_sdnmlb_1	0	4	05	.211	0	sit	-.613	1	4	.387	
+1	.000	0	gid_2016_05_07_nynmlb_sdnmlb_1	0	5	06	.000	0	sit	-1.000	0	0	.000	
+9	.333	0	gid_2016_05_07_nynmlb_sdnmlb_1	1	6	07	1.000	0	sit	.832	2	1	1.832	
+2	.500	0	gid_2016_05_07_nynmlb_sdnmlb_1	0	7	08	1.000	0	sit	.832	0	0	1.832	
+3	.333	1	gid_2016_05_07_nynmlb_sdnmlb_1	0	8	09	.833	0	sit	.527	0	0	1.527	
+4	.250	1	gid_2016_05_07_nynmlb_sdnmlb_1	0	9	11	.650	0	sit	.191	1	3	1.191	
+3	.667	0	gid_2016_05_07_nynmlb_sdnmlb_1	0	10	12	1.333	0	sit	1.443	1	0	2.443	
+7	.286	1	gid_2016_05_07_nynmlb_sdnmlb_1	0	11	13	.661	0	sit	.211	0	3	1.211	
+10	.100	1	gid_2016_05_07_nynmlb_sdnmlb_1	0	12	14	.282	0	sit	-.484	0	7	.516	

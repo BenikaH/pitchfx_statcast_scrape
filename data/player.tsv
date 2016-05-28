@@ -1,0 +1,62 @@
+avg	bat_order	bats	boxname	current_position	era	first	game_position	gid	hr	id	key	last	losses	num	parent_key	parent_table	parent_team_abbrev	parent_team_id	position	rbi	rl	status	team_abbrev	team_id	text	wins
+.000	9	R	Colon, B	P	2.56	Bartolo	P	gid_2016_05_07_nynmlb_sdnmlb_1	0	112526	0	Colon	1	40	0	team	NYM	121	P	0	R	A	NYM	121		2
+.111		R	Rivera, R			Rene		gid_2016_05_07_nynmlb_sdnmlb_1	1	425784	1	Rivera		44	0	team	NYM	121	C	2	R	A	NYM	121		
+.241	2	R	Wright, D	3B		David	3B	gid_2016_05_07_nynmlb_sdnmlb_1	3	431151	2	Wright		5	0	team	NYM	121	3B	7	R	A	NYM	121		
+.215	1	L	Granderson	RF		Curtis	RF	gid_2016_05_07_nynmlb_sdnmlb_1	5	434158	3	Granderson		3	0	team	NYM	121	RF	10	R	A	NYM	121		
+.274	6	S	Walker, N	2B		Neil	2B	gid_2016_05_07_nynmlb_sdnmlb_1	9	435522	4	Walker		20	0	team	NYM	121	2B	19	R	A	NYM	121		
+.240	5	L	Duda	1B		Lucas	1B	gid_2016_05_07_nynmlb_sdnmlb_1	7	446263	5	Duda		21	0	team	NYM	121	1B	18	R	A	NYM	121		
+.000		L	Henderson		0.93	Jim		gid_2016_05_07_nynmlb_sdnmlb_1	0	449104	6	Henderson	1	51	0	team	NYM	121	P	0	R	A	NYM	121		0
+.303	7	S	Cabrera, A	SS		Asdrubal	SS	gid_2016_05_07_nynmlb_sdnmlb_1	2	452678	7	Cabrera		13	0	team	NYM	121	SS	9	R	A	NYM	121		
+.000		R	Bastardo		2.70	Antonio		gid_2016_05_07_nynmlb_sdnmlb_1	0	455374	8	Bastardo	0	59	0	team	NYM	121	P	0	L	A	NYM	121		0
+.188		L	De Aza	PH		Alejandro		gid_2016_05_07_nynmlb_sdnmlb_1	1	457477	9	De Aza		16	0	team	NYM	121	LF	1	L	A	NYM	121		
+.000		L	Blevins	P	3.24	Jerry		gid_2016_05_07_nynmlb_sdnmlb_1	0	460283	10	Blevins	0	39	0	team	NYM	121	P	0	L	A	NYM	121		1
+.289	4	R	Cespedes	LF		Yoenis	CF	gid_2016_05_07_nynmlb_sdnmlb_1	9	493316	11	Cespedes		52	0	team	NYM	121	LF	27	R	A	NYM	121		
+.182		R	Campbell			Eric		gid_2016_05_07_nynmlb_sdnmlb_1	0	493472	12	Campbell		29	0	team	NYM	121	3B	0	R	A	NYM	121		
+.275		R	Lagares	CF		Juan		gid_2016_05_07_nynmlb_sdnmlb_1	0	501571	13	Lagares		12	0	team	NYM	121	CF	2	R	A	NYM	121		
+.196		R	d'Arnaud			Travis		gid_2016_05_07_nynmlb_sdnmlb_1	0	518595	14	d'Arnaud		7	0	team	NYM	121	C	1	R	A	NYM	121		
+.000		R	Harvey		4.76	Matt		gid_2016_05_07_nynmlb_sdnmlb_1	0	518774	15	Harvey	4	33	0	team	NYM	121	P	0	R	A	NYM	121		2
+.179		R	Flores, W			Wilmer		gid_2016_05_07_nynmlb_sdnmlb_1	1	527038	16	Flores		4	0	team	NYM	121	SS	2	R	A	NYM	121		
+.000		R	Familia	P	2.77	Jeurys		gid_2016_05_07_nynmlb_sdnmlb_1	0	544727	17	Familia	0	27	0	team	NYM	121	P	0	R	A	NYM	121		0
+.250		R	Verrett		1.27	Logan		gid_2016_05_07_nynmlb_sdnmlb_1	0	548337	18	Verrett	0	35	0	team	NYM	121	P	0	R	A	NYM	121		3
+.000		L	Wheeler, Z		-	Zack		gid_2016_05_07_nynmlb_sdnmlb_1	0	554430	19	Wheeler	0	45	0	team	NYM	121	P	0	R	A	NYM	121		0
+.000		R	Robles		1.46	Hansel		gid_2016_05_07_nynmlb_sdnmlb_1	0	570663	20	Robles	1	47	0	team	NYM	121	P	0	R	A	NYM	121		0
+.125		R	Matz		2.83	Steven		gid_2016_05_07_nynmlb_sdnmlb_1	0	571927	21	Matz	1	32	0	team	NYM	121	P	0	L	A	NYM	121		4
+.000		R	Edgin		-	Josh		gid_2016_05_07_nynmlb_sdnmlb_1	0	572831	22	Edgin	0	66	0	team	NYM	121	P	0	L	A	NYM	121		0
+.000		L	Reed, A	P	3.21	Addison		gid_2016_05_07_nynmlb_sdnmlb_1	0	592665	23	Reed	0	43	0	team	NYM	121	P	0	R	A	NYM	121		0
+.000		L	Syndergaard		2.58	Noah		gid_2016_05_07_nynmlb_sdnmlb_1	0	592789	24	Syndergaard	2	34	0	team	NYM	121	P	0	R	A	NYM	121		2
+.000		L	deGrom		1.99	Jacob		gid_2016_05_07_nynmlb_sdnmlb_1	0	594798	25	deGrom	1	48	0	team	NYM	121	P	1	R	A	NYM	121		3
+.189	8	R	Plawecki	C		Kevin	C	gid_2016_05_07_nynmlb_sdnmlb_1	0	608700	26	Plawecki		26	0	team	NYM	121	C	2	R	A	NYM	121		
+.298	3	L	Conforto	LF		Michael	LF	gid_2016_05_07_nynmlb_sdnmlb_1	4	624424	27	Conforto		30	0	team	NYM	121	LF	18	R	A	NYM	121		
+.000		L	Thornton		-	Matt		gid_2016_05_07_nynmlb_sdnmlb_1	0	407819	28	Thornton	0	46	1	team	SD	135	P	0	L	A	SD	135		0
+.000		R	Rodney		0.00	Fernando		gid_2016_05_07_nynmlb_sdnmlb_1	0	407845	29	Rodney	1	56	1	team	SD	135	P	0	R	A	SD	135		0
+.247	5	R	Upton Jr.	LF		Melvin	LF	gid_2016_05_07_nynmlb_sdnmlb_1	2	425834	30	Upton		2	1	team	SD	135	LF	11	R	A	SD	135		
+.277	1	L	Jay	CF		Jon	CF	gid_2016_05_07_nynmlb_sdnmlb_1	0	445055	31	Jay		24	1	team	SD	135	CF	10	L	A	SD	135		
+.100	9	R	Shields	P	3.23	James	P	gid_2016_05_07_nynmlb_sdnmlb_1	0	448306	32	Shields	4	33	1	team	SD	135	P	0	R	A	SD	135		1
+.000		R	Villanueva, Ca	P	5.14	Carlos		gid_2016_05_07_nynmlb_sdnmlb_1	0	453646	33	Villanueva	0	23	1	team	SD	135	P	0	R	A	SD	135		0
+.000		R	Edwards, J		-	Jon		gid_2016_05_07_nynmlb_sdnmlb_1	0	457754	34	Edwards	0	43	1	team	SD	135	P	0	R	A	SD	135		0
+.146	8	S	Weeks, J	2B		Jemile	2B	gid_2016_05_07_nynmlb_sdnmlb_1	0	457789	35	Weeks		8	1	team	SD	135	2B	2	R	A	SD	135		
+.289	3	R	Kemp	RF		Matt	RF	gid_2016_05_07_nynmlb_sdnmlb_1	8	461314	36	Kemp		27	1	team	SD	135	RF	23	R	A	SD	135		
+.000		R	Ross, T		11.81	Tyson		gid_2016_05_07_nynmlb_sdnmlb_1	0	475115	37	Ross	1	38	1	team	SD	135	P	0	R	A	SD	135		0
+.237	4	L	Wallace	3B		Brett	3B	gid_2016_05_07_nynmlb_sdnmlb_1	1	477165	38	Wallace		39	1	team	SD	135	1B	5	R	A	SD	135		
+.000		L	Buchter		0.66	Ryan		gid_2016_05_07_nynmlb_sdnmlb_1	0	488748	39	Buchter	0	40	1	team	SD	135	P	0	L	A	SD	135		1
+.125		R	Cashner		4.85	Andrew		gid_2016_05_07_nynmlb_sdnmlb_1	0	488768	40	Cashner	2	34	1	team	SD	135	P	1	R	A	SD	135		2
+.189		R	Rosales	2B		Adam		gid_2016_05_07_nynmlb_sdnmlb_1	2	489267	41	Rosales		9	1	team	SD	135	3B	6	R	A	SD	135		
+.264	6	R	Ramirez, Al	SS		Alexei	SS	gid_2016_05_07_nynmlb_sdnmlb_1	0	493351	42	Ramirez		10	1	team	SD	135	SS	10	R	A	SD	135		
+.375		S	Solarte			Yangervis		gid_2016_05_07_nynmlb_sdnmlb_1	0	500208	43	Solarte		26	1	team	SD	135	3B	4	R	A	SD	135		
+.333		L	Amarista			Alexi		gid_2016_05_07_nynmlb_sdnmlb_1	0	506560	44	Amarista		5	1	team	SD	135	SS	2	R	A	SD	135		
+.136		R	Blash	PH		Jabari		gid_2016_05_07_nynmlb_sdnmlb_1	0	518466	45	Blash		32	1	team	SD	135	LF	0	R	A	SD	135		
+.161	7	R	Norris, D	C		Derek	C	gid_2016_05_07_nynmlb_sdnmlb_1	2	519083	46	Norris		3	1	team	SD	135	C	4	R	A	SD	135		
+.182		R	Pomeranz		2.12	Drew		gid_2016_05_07_nynmlb_sdnmlb_1	0	519141	47	Pomeranz	3	13	1	team	SD	135	P	1	L	A	SD	135		3
+.000		R	Quackenbush		5.27	Kevin		gid_2016_05_07_nynmlb_sdnmlb_1	0	534812	48	Quackenbush	1	59	1	team	SD	135	P	0	R	A	SD	135		1
+.174		R	Bethancourt			Christian		gid_2016_05_07_nynmlb_sdnmlb_1	1	542194	49	Bethancourt		12	1	team	SD	135	C	3	R	A	SD	135		
+.333		L	Dickerson, A	PH		Alex		gid_2016_05_07_nynmlb_sdnmlb_1	0	543105	50	Dickerson		1	1	team	SD	135	RF	0	L	A	SD	135		
+.000		L	Hand	P	4.76	Brad		gid_2016_05_07_nynmlb_sdnmlb_1	0	543272	51	Hand	0	52	1	team	SD	135	P	0	L	A	SD	135		0
+.000		R	Maurer		4.30	Brandon		gid_2016_05_07_nynmlb_sdnmlb_1	0	543506	52	Maurer	1	37	1	team	SD	135	P	0	R	A	SD	135		0
+.000		R	Vargas, Ce		1.10	Cesar		gid_2016_05_07_nynmlb_sdnmlb_1	0	570714	53	Vargas	1	49	1	team	SD	135	P	0	R	A	SD	135		0
+.000		L	Baumann		-	Buddy		gid_2016_05_07_nynmlb_sdnmlb_1	0	571473	54	Baumann	0	77	1	team	SD	135	P	0	L	A	SD	135		0
+.292	2	R	Myers	1B		Wil	1B	gid_2016_05_07_nynmlb_sdnmlb_1	6	571976	55	Myers		4	1	team	SD	135	1B	16	R	A	SD	135		
+.000		R	Erlin		4.02	Robbie		gid_2016_05_07_nynmlb_sdnmlb_1	0	572362	56	Erlin	2	41	1	team	SD	135	P	0	L	A	SD	135		1
+.229		L	Spangenberg			Cory		gid_2016_05_07_nynmlb_sdnmlb_1	1	605486	57	Spangenberg		15	1	team	SD	135	2B	8	R	A	SD	135		
+.000		R	Perdomo, L		10.97	Luis		gid_2016_05_07_nynmlb_sdnmlb_1	0	606131	58	Perdomo	0	61	1	team	SD	135	P	0	R	A	SD	135		1
+.077		R	Rea		3.82	Colin		gid_2016_05_07_nynmlb_sdnmlb_1	0	607067	59	Rea	1	29	1	team	SD	135	P	1	R	A	SD	135		3
+.235		L	Jankowski			Travis		gid_2016_05_07_nynmlb_sdnmlb_1	0	608671	60	Jankowski		16	1	team	SD	135	CF	1	R	A	SD	135		

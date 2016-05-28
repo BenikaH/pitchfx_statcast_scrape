@@ -1,0 +1,18 @@
+gid	key	parent_key	parent_table	text
+gid_2016_05_07_nynmlb_sdnmlb_1	0	0	dict	flagstaff
+gid_2016_05_07_nynmlb_sdnmlb_1	1	0	dict	Runs Scored
+gid_2016_05_07_nynmlb_sdnmlb_1	2	1	dict	http://mlb.mlb.com/images/players/mugshot/ph_493316.jpg
+gid_2016_05_07_nynmlb_sdnmlb_1	3	1	dict	Home Run
+gid_2016_05_07_nynmlb_sdnmlb_1	4	1	dict	Yoenis Cespedes homers (10) on a fly ball to left field.   David Wright scores.
+gid_2016_05_07_nynmlb_sdnmlb_1	5	3	dict	http://mlb.mlb.com/images/players/mugshot/ph_112526.jpg
+gid_2016_05_07_nynmlb_sdnmlb_1	6	3	dict	Home Run
+gid_2016_05_07_nynmlb_sdnmlb_1	7	3	dict	Bartolo Colon homers (1) on a fly ball to left field.   Kevin Plawecki scores.
+gid_2016_05_07_nynmlb_sdnmlb_1	8	5	dict	http://mlb.mlb.com/images/players/mugshot/ph_445055.jpg
+gid_2016_05_07_nynmlb_sdnmlb_1	9	5	dict	Home Run
+gid_2016_05_07_nynmlb_sdnmlb_1	10	5	dict	Jon Jay homers (1) on a fly ball to right center field.    Derek Norris scores.    James Shields scores.
+gid_2016_05_07_nynmlb_sdnmlb_1	11	7	dict	http://mlb.mlb.com/images/players/mugshot/ph_431151.jpg
+gid_2016_05_07_nynmlb_sdnmlb_1	12	7	dict	Home Run
+gid_2016_05_07_nynmlb_sdnmlb_1	13	7	dict	David Wright homers (4) on a line drive to left field.
+gid_2016_05_07_nynmlb_sdnmlb_1	14	9	dict	http://mlb.mlb.com/images/players/mugshot/ph_624424.jpg
+gid_2016_05_07_nynmlb_sdnmlb_1	15	9	dict	Home Run
+gid_2016_05_07_nynmlb_sdnmlb_1	16	9	dict	Michael Conforto homers (5) on a fly ball to right field.

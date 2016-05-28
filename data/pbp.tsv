@@ -1,0 +1,92 @@
+b	description	gid	key	o	parent_key	parent_table	s	text
+2	Curtis Granderson flies out to center fielder Jon Jay.  	gid_2016_05_07_nynmlb_sdnmlb_1	0	1	0	play-by-play	1	
+4	David Wright walks.  	gid_2016_05_07_nynmlb_sdnmlb_1	1	1	0	play-by-play	2	
+2	Michael Conforto strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	2	2	0	play-by-play	3	
+2	Yoenis Cespedes homers (10) on a fly ball to left field.   David Wright scores.  	gid_2016_05_07_nynmlb_sdnmlb_1	3	2	0	play-by-play	2	
+2	Lucas Duda strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	4	3	0	play-by-play	3	
+1	Jon Jay lines out to center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	5	1	1	play-by-play	0	
+1	Wil Myers grounds out softly, second baseman Neil Walker to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	6	2	1	play-by-play	2	
+1	Matt Kemp lines out to third baseman David Wright.  	gid_2016_05_07_nynmlb_sdnmlb_1	7	3	1	play-by-play	0	
+3	Neil Walker lines out to left fielder Melvin Upton.  	gid_2016_05_07_nynmlb_sdnmlb_1	8	1	2	play-by-play	2	
+1	Asdrubal Cabrera grounds out, shortstop Alexei Ramirez to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	9	2	2	play-by-play	1	
+0	Kevin Plawecki doubles (1) on a line drive to center fielder Jon Jay.  	gid_2016_05_07_nynmlb_sdnmlb_1	10	2	2	play-by-play	0	
+1	Bartolo Colon homers (1) on a fly ball to left field.   Kevin Plawecki scores.  	gid_2016_05_07_nynmlb_sdnmlb_1	11	2	2	play-by-play	1	
+2	Curtis Granderson grounds out, shortstop Alexei Ramirez to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	12	3	2	play-by-play	1	
+1	Brett Wallace grounds out, third baseman David Wright to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	13	1	3	play-by-play	1	
+1	Melvin Upton strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	14	2	3	play-by-play	3	
+0	Alexei Ramirez grounds out, shortstop Asdrubal Cabrera to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	15	3	3	play-by-play	2	
+4	David Wright walks.  	gid_2016_05_07_nynmlb_sdnmlb_1	16	0	4	play-by-play	1	
+4	Michael Conforto walks.   David Wright to 2nd.  	gid_2016_05_07_nynmlb_sdnmlb_1	17	0	4	play-by-play	2	
+0	Yoenis Cespedes grounds into a double play, shortstop Alexei Ramirez to second baseman Jemile Weeks to first baseman Wil Myers.   David Wright to 3rd.    Michael Conforto out at 2nd.  	gid_2016_05_07_nynmlb_sdnmlb_1	18	2	4	play-by-play	1	
+1	Lucas Duda strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	19	3	4	play-by-play	3	
+2	Derek Norris singles on a line drive to center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	20	0	5	play-by-play	1	
+1	Jemile Weeks pops out to shortstop Asdrubal Cabrera.  	gid_2016_05_07_nynmlb_sdnmlb_1	21	1	5	play-by-play	1	
+0	James Shields singles on a ground ball to left fielder Michael Conforto.   Derek Norris to 2nd.  	gid_2016_05_07_nynmlb_sdnmlb_1	22	1	5	play-by-play	2	
+1	Jon Jay homers (1) on a fly ball to right center field.    Derek Norris scores.    James Shields scores.  	gid_2016_05_07_nynmlb_sdnmlb_1	23	1	5	play-by-play	2	
+2	Wil Myers flies out to right fielder Curtis Granderson.  	gid_2016_05_07_nynmlb_sdnmlb_1	24	2	5	play-by-play	2	
+2	Matt Kemp strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	25	3	5	play-by-play	3	
+1	Neil Walker grounds out to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	26	1	6	play-by-play	1	
+1	Asdrubal Cabrera doubles (7) on a line drive to right fielder Matt Kemp.  	gid_2016_05_07_nynmlb_sdnmlb_1	27	1	6	play-by-play	1	
+1	Kevin Plawecki grounds out, shortstop Alexei Ramirez to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	28	2	6	play-by-play	0	
+1	Bartolo Colon strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	29	3	6	play-by-play	3	
+4	Brett Wallace walks.  	gid_2016_05_07_nynmlb_sdnmlb_1	30	0	7	play-by-play	1	
+0	Melvin Upton flies out to left fielder Michael Conforto.  	gid_2016_05_07_nynmlb_sdnmlb_1	31	1	7	play-by-play	1	
+1	Alexei Ramirez pops out to shortstop Asdrubal Cabrera in foul territory.  	gid_2016_05_07_nynmlb_sdnmlb_1	32	2	7	play-by-play	0	
+0	Derek Norris pops out to shortstop Asdrubal Cabrera.  	gid_2016_05_07_nynmlb_sdnmlb_1	33	3	7	play-by-play	1	
+1	Curtis Granderson strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	34	1	8	play-by-play	3	
+4	David Wright walks.  	gid_2016_05_07_nynmlb_sdnmlb_1	35	1	8	play-by-play	2	
+1	Michael Conforto strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	36	2	8	play-by-play	3	
+2	Yoenis Cespedes flies out to right fielder Matt Kemp.  	gid_2016_05_07_nynmlb_sdnmlb_1	37	3	8	play-by-play	1	
+0	Jemile Weeks called out on strikes.  	gid_2016_05_07_nynmlb_sdnmlb_1	38	1	9	play-by-play	3	
+0	James Shields singles on a ground ball to center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	39	1	9	play-by-play	1	
+0	Jon Jay flies out to center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	40	2	9	play-by-play	0	
+1	Wil Myers called out on strikes.  	gid_2016_05_07_nynmlb_sdnmlb_1	41	3	9	play-by-play	3	
+3	Lucas Duda doubles (4) on a sharp line drive to right fielder Matt Kemp.  	gid_2016_05_07_nynmlb_sdnmlb_1	42	0	10	play-by-play	0	
+1	Neil Walker grounds out to first baseman Wil Myers.   Lucas Duda to 3rd.  	gid_2016_05_07_nynmlb_sdnmlb_1	43	1	10	play-by-play	0	
+3	Asdrubal Cabrera strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	44	2	10	play-by-play	3	
+4	James Shields intentionally walks Kevin Plawecki.  	gid_2016_05_07_nynmlb_sdnmlb_1	45	2	10	play-by-play	0	
+0	Bartolo Colon strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	46	3	10	play-by-play	3	
+0	Matt Kemp grounds out sharply, second baseman Neil Walker to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	47	1	11	play-by-play	2	
+0	Brett Wallace grounds out to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	48	2	11	play-by-play	0	
+2	Melvin Upton singles on a line drive to center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	49	2	11	play-by-play	2	
+1	Alexei Ramirez flies out to left fielder Michael Conforto.  	gid_2016_05_07_nynmlb_sdnmlb_1	50	3	11	play-by-play	1	
+0	Pitching Change: Brad Hand replaces James Shields, batting 9th.  	gid_2016_05_07_nynmlb_sdnmlb_1	51	0	12	play-by-play	0	
+2	Curtis Granderson strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	52	1	12	play-by-play	3	
+0	David Wright singles on a sharp line drive to center fielder Jon Jay.  	gid_2016_05_07_nynmlb_sdnmlb_1	53	1	12	play-by-play	0	
+1	With Michael Conforto batting, David Wright steals (3) 2nd base.  	gid_2016_05_07_nynmlb_sdnmlb_1	54	1	12	play-by-play	2	
+1	Michael Conforto flies out to left fielder Melvin Upton.  	gid_2016_05_07_nynmlb_sdnmlb_1	55	2	12	play-by-play	2	
+4	Brad Hand intentionally walks Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	56	2	12	play-by-play	0	
+2	Lucas Duda called out on strikes.  	gid_2016_05_07_nynmlb_sdnmlb_1	57	3	12	play-by-play	3	
+1	Derek Norris singles on a line drive to right fielder Curtis Granderson.  	gid_2016_05_07_nynmlb_sdnmlb_1	58	0	13	play-by-play	0	
+0	Jemile Weeks out on a sacrifice bunt to pitcher Bartolo Colon.   Derek Norris to 2nd.  	gid_2016_05_07_nynmlb_sdnmlb_1	59	1	13	play-by-play	0	
+0	Offensive Substitution: Pinch-hitter Jabari Blash replaces Brad Hand.  	gid_2016_05_07_nynmlb_sdnmlb_1	60	1	13	play-by-play	0	
+1	Jabari Blash called out on strikes.  	gid_2016_05_07_nynmlb_sdnmlb_1	61	2	13	play-by-play	3	
+0	Pitching Change: Jerry Blevins replaces Bartolo Colon, batting 9th.  	gid_2016_05_07_nynmlb_sdnmlb_1	62	2	13	play-by-play	0	
+1	Jon Jay strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	63	3	13	play-by-play	3	
+0	Pitching Change: Carlos Villanueva replaces Brad Hand, batting 8th, replacing second baseman Jemile Weeks.  	gid_2016_05_07_nynmlb_sdnmlb_1	64	0	14	play-by-play	0	
+0	Defensive Substitution: Adam Rosales replaces Jabari Blash, batting 9th, playing second base.  	gid_2016_05_07_nynmlb_sdnmlb_1	65	0	14	play-by-play	0	
+0	Neil Walker lines out to right fielder Matt Kemp.  	gid_2016_05_07_nynmlb_sdnmlb_1	66	1	14	play-by-play	0	
+2	Asdrubal Cabrera strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	67	2	14	play-by-play	3	
+0	Kevin Plawecki doubles (2) on a line drive to left fielder Melvin Upton.  	gid_2016_05_07_nynmlb_sdnmlb_1	68	2	14	play-by-play	2	
+0	Offensive Substitution: Pinch-hitter Alejandro De Aza replaces Jerry Blevins.  	gid_2016_05_07_nynmlb_sdnmlb_1	69	2	14	play-by-play	0	
+1	Alejandro De Aza grounds out, second baseman Adam Rosales to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	70	3	14	play-by-play	2	
+0	Pitching Change: Addison Reed replaces Jerry Blevins, batting 9th, replacing  Alejandro De Aza.  	gid_2016_05_07_nynmlb_sdnmlb_1	71	0	15	play-by-play	0	
+0	San Diego Padres second baseman Jemile Weeks left the game due to an injured leg.  	gid_2016_05_07_nynmlb_sdnmlb_1	72	0	15	play-by-play	0	
+0	Wil Myers grounds out, second baseman Neil Walker to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	73	1	15	play-by-play	2	
+1	Matt Kemp strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	74	2	15	play-by-play	3	
+3	Brett Wallace singles on a fly ball to right fielder Curtis Granderson, deflected by center fielder Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	75	2	15	play-by-play	2	
+0	Melvin Upton singles on a line drive to center fielder Yoenis Cespedes.   Brett Wallace to 3rd.  	gid_2016_05_07_nynmlb_sdnmlb_1	76	2	15	play-by-play	2	
+0	Alexei Ramirez strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	77	3	15	play-by-play	3	
+0	Curtis Granderson grounds out, second baseman Adam Rosales to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	78	1	16	play-by-play	1	
+2	David Wright homers (4) on a line drive to left field.  	gid_2016_05_07_nynmlb_sdnmlb_1	79	1	16	play-by-play	0	
+0	Michael Conforto homers (5) on a fly ball to right field.  	gid_2016_05_07_nynmlb_sdnmlb_1	80	1	16	play-by-play	1	
+4	Yoenis Cespedes walks.  	gid_2016_05_07_nynmlb_sdnmlb_1	81	1	16	play-by-play	0	
+1	Lucas Duda flies out to center fielder Jon Jay.  	gid_2016_05_07_nynmlb_sdnmlb_1	82	2	16	play-by-play	0	
+0	Neil Walker grounds out, second baseman Adam Rosales to first baseman Wil Myers.  	gid_2016_05_07_nynmlb_sdnmlb_1	83	3	16	play-by-play	0	
+0	Pitching Change: Jeurys Familia replaces Addison Reed, batting 3rd, replacing left fielder Michael Conforto.  	gid_2016_05_07_nynmlb_sdnmlb_1	84	0	17	play-by-play	0	
+0	Defensive switch from center field to left field for Yoenis Cespedes.  	gid_2016_05_07_nynmlb_sdnmlb_1	85	0	17	play-by-play	0	
+0	Defensive Substitution: Juan Lagares replaces pitcher Addison Reed, batting 9th, playing center field.  	gid_2016_05_07_nynmlb_sdnmlb_1	86	0	17	play-by-play	0	
+2	Derek Norris flies out to right fielder Curtis Granderson.  	gid_2016_05_07_nynmlb_sdnmlb_1	87	1	17	play-by-play	2	
+0	Offensive Substitution: Pinch-hitter Alex Dickerson replaces Carlos Villanueva.  	gid_2016_05_07_nynmlb_sdnmlb_1	88	1	17	play-by-play	0	
+0	Alex Dickerson grounds out, second baseman Neil Walker to first baseman Lucas Duda.  	gid_2016_05_07_nynmlb_sdnmlb_1	89	2	17	play-by-play	0	
+2	Adam Rosales strikes out swinging.  	gid_2016_05_07_nynmlb_sdnmlb_1	90	3	17	play-by-play	3	

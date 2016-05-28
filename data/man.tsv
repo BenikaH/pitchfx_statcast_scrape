@@ -1,0 +1,28 @@
+c_cs	c_sb	gid	key	p_cs	p_sb	parent_key	parent_table	pid	pos	s_ass	s_err	s_fldg	s_po	text
+		gid_2016_05_07_nynmlb_sdnmlb_1	0	0	0	0	defense	544727	p	3	0	1.000	1	
+5	11	gid_2016_05_07_nynmlb_sdnmlb_1	1			0	defense	608700	c	9	0	1.000	115	
+		gid_2016_05_07_nynmlb_sdnmlb_1	2			0	defense	446263	1b	20	1	.995	197	
+		gid_2016_05_07_nynmlb_sdnmlb_1	3			0	defense	435522	2b	74	1	.991	36	
+		gid_2016_05_07_nynmlb_sdnmlb_1	4			0	defense	452678	ss	68	1	.991	41	
+		gid_2016_05_07_nynmlb_sdnmlb_1	5			0	defense	431151	3b	36	3	.945	16	
+		gid_2016_05_07_nynmlb_sdnmlb_1	6			0	defense	493316	lf	3	1	.976	37	
+		gid_2016_05_07_nynmlb_sdnmlb_1	7			0	defense	501571	cf	0	0	1.000	28	
+		gid_2016_05_07_nynmlb_sdnmlb_1	8			0	defense	434158	rf	2	0	1.000	42	
+		gid_2016_05_07_nynmlb_sdnmlb_1	9			0	team	445055						
+		gid_2016_05_07_nynmlb_sdnmlb_1	10			0	team	571976						
+		gid_2016_05_07_nynmlb_sdnmlb_1	11			0	team	461314						
+		gid_2016_05_07_nynmlb_sdnmlb_1	12			0	team	477165						
+		gid_2016_05_07_nynmlb_sdnmlb_1	13			0	team	425834						
+		gid_2016_05_07_nynmlb_sdnmlb_1	14			0	team	493351						
+		gid_2016_05_07_nynmlb_sdnmlb_1	15			0	team	519083						
+		gid_2016_05_07_nynmlb_sdnmlb_1	16			0	team	543105						
+		gid_2016_05_07_nynmlb_sdnmlb_1	17			0	team	489267						
+		gid_2016_05_07_nynmlb_sdnmlb_1	18			1	team	434158						
+		gid_2016_05_07_nynmlb_sdnmlb_1	19			1	team	431151						
+		gid_2016_05_07_nynmlb_sdnmlb_1	20			1	team	544727						
+		gid_2016_05_07_nynmlb_sdnmlb_1	21			1	team	493316						
+		gid_2016_05_07_nynmlb_sdnmlb_1	22			1	team	446263						
+		gid_2016_05_07_nynmlb_sdnmlb_1	23			1	team	435522						
+		gid_2016_05_07_nynmlb_sdnmlb_1	24			1	team	452678						
+		gid_2016_05_07_nynmlb_sdnmlb_1	25			1	team	608700						
+		gid_2016_05_07_nynmlb_sdnmlb_1	26			1	team	501571						

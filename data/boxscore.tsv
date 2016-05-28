@@ -1,0 +1,2 @@
+attendance	date	elapsed_time	game_id	game_pk	game_type	gameday_sw	gid	home_league_id	home_sport_code	key	official_scorer	parent_key	parent_table	start_time	status_ind	text	venue_id	venue_name	weather	wind
+41,028	May 7, 2016	2:52	2016/05/07/nynmlb-sdnmlb-1	447317	R	P	gid_2016_05_07_nynmlb_sdnmlb_1	104	mlb	0	Bill Zavestoski			5:41 PM	F		2680	Petco Park	60 degrees, clear	15 mph, L to R

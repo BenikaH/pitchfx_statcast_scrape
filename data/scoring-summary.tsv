@@ -1,0 +1,5 @@
+gid	inning	key	parent_key	parent_table	text
+gid_2016_05_07_nynmlb_sdnmlb_1	1t	0	0	game	
+gid_2016_05_07_nynmlb_sdnmlb_1	2t	1	0	game	
+gid_2016_05_07_nynmlb_sdnmlb_1	3b	2	0	game	
+gid_2016_05_07_nynmlb_sdnmlb_1	9t	3	0	game	

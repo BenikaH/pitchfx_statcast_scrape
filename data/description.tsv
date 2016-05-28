@@ -1,0 +1,5 @@
+gid	id	key	parent_key	parent_table	text
+gid_2016_05_07_nynmlb_sdnmlb_1	velocity	0	0	descriptions	Steady velocity on Four-seam FB
+gid_2016_05_07_nynmlb_sdnmlb_1	selection	1	0	descriptions	Consistent selection
+gid_2016_05_07_nynmlb_sdnmlb_1	release	2	0	descriptions	Release point consistent
+gid_2016_05_07_nynmlb_sdnmlb_1	movement	3	0	descriptions	More movement on Slider

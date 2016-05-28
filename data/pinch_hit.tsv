@@ -1,0 +1,4 @@
+event	gid	inning	inning_num	key	parent_key	parent_table	replaced_id	replaced_name	result	sequence	text
+484	gid_2016_05_07_nynmlb_sdnmlb_1	8th	8	0	11	batter	460283	Blevins	Grounded out	a	
+440	gid_2016_05_07_nynmlb_sdnmlb_1	7th	7	1	20	batter	543272	Hand	Struck out	a	
+593	gid_2016_05_07_nynmlb_sdnmlb_1	9th	9	2	27	batter	453646	Villanueva, Ca	Grounded out	b	

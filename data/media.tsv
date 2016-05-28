@@ -1,0 +1,29 @@
+condensed	date	editorial	gid	id	key	media-type	mlbtax	parent_key	parent_table	recap	team_id	text	top-play	type
+	2016-05-07T21:00:37-0400	true	gid_2016_05_07_nynmlb_sdnmlb_1	669358083	0	T		0	highlights		121		true	video
+	2016-05-07T21:22:34-0400	true	gid_2016_05_07_nynmlb_sdnmlb_1	669453283	1	T		0	highlights		121		true	video
+	2016-05-07T21:39:26-0400		gid_2016_05_07_nynmlb_sdnmlb_1	669528383	2	T		0	highlights		135		true	video
+	2016-05-07T21:52:48-0400	true	gid_2016_05_07_nynmlb_sdnmlb_1	669591683	3	T		0	highlights		135		true	video
+	2016-05-07T22:17:22-0400		gid_2016_05_07_nynmlb_sdnmlb_1	669750583	4	T		0	highlights		121		true	video
+	2016-05-07T22:37:18-0400		gid_2016_05_07_nynmlb_sdnmlb_1	669899083	5	T		0	highlights		135		true	video
+	2016-05-07T22:56:09-0400		gid_2016_05_07_nynmlb_sdnmlb_1	670078983	6	T		0	highlights		135		true	video
+	2016-05-07T23:12:41-0400		gid_2016_05_07_nynmlb_sdnmlb_1	670119983	7	T		0	highlights		135		true	video
+	2016-05-07T23:36:36-0400		gid_2016_05_07_nynmlb_sdnmlb_1	670133483	8	S		0	highlights		121		true	video
+	2016-05-07T23:48:58-0400	true	gid_2016_05_07_nynmlb_sdnmlb_1	670478483	9	T		0	highlights		121		true	video
+	2016-05-07T23:54:39-0400		gid_2016_05_07_nynmlb_sdnmlb_1	670366983	10	T		0	highlights		121		true	video
+	2016-05-08T00:00:09-0400		gid_2016_05_07_nynmlb_sdnmlb_1	670481283	11	T		0	highlights		121		true	video
+	2016-05-08T00:16:15-0400		gid_2016_05_07_nynmlb_sdnmlb_1	670493083	12	T		0	highlights		121		true	video
+	2016-05-08T00:55:43-0400		gid_2016_05_07_nynmlb_sdnmlb_1	670140783	13	T		0	highlights		121		true	video
+	2016-05-08T01:16:35-0400		gid_2016_05_07_nynmlb_sdnmlb_1	669918483	14	T		0	highlights		121		true	video
+	2016-05-08T01:34:02-0400		gid_2016_05_07_nynmlb_sdnmlb_1	669467783	15	T		0	highlights		121		true	video
+	2016-05-08T01:41:01-0400		gid_2016_05_07_nynmlb_sdnmlb_1	670018583	16	T		0	highlights		121			video
+	2016-05-08T02:10:32-0400		gid_2016_05_07_nynmlb_sdnmlb_1	670492483	17	T		0	highlights		135		true	video
+	2016-05-08T02:50:42-0400		gid_2016_05_07_nynmlb_sdnmlb_1	671469583	18	T		0	highlights		121		true	video
+	2016-05-08T03:08:57-0400		gid_2016_05_07_nynmlb_sdnmlb_1	671501683	19	T		0	highlights		121		true	video
+	2016-05-08T03:09:50-0400		gid_2016_05_07_nynmlb_sdnmlb_1	671469483	20	R	daily_rewind	0	highlights	true				video
+true	2016-05-08T03:45:25-0400		gid_2016_05_07_nynmlb_sdnmlb_1	671439183	21	C		0	highlights					video
+	2016-05-08T03:52:34-0400		gid_2016_05_07_nynmlb_sdnmlb_1	671621083	22	T		0	highlights		121		true	video
+	2016-05-08T03:52:37-0400		gid_2016_05_07_nynmlb_sdnmlb_1	670702583	23	T		0	highlights		135		true	video
+	2016-05-08T03:54:25-0400		gid_2016_05_07_nynmlb_sdnmlb_1	671621683	24	T		0	highlights		121		true	video
+	2016-05-08T03:55:05-0400		gid_2016_05_07_nynmlb_sdnmlb_1	671621483	25	T		0	highlights		121		true	video
+	2016-05-08T04:12:36-0400		gid_2016_05_07_nynmlb_sdnmlb_1	671207583	26	T		0	highlights		121		true	video
+	2016-05-08T19:28:12-0400		gid_2016_05_07_nynmlb_sdnmlb_1	674009183	27	T		0	highlights		121		true	video

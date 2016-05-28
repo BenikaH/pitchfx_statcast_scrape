@@ -1,0 +1,12 @@
+gid	key	parent_key	parent_table	text
+gid_2016_05_07_nynmlb_sdnmlb_1	2	1	dict	
+gid_2016_05_07_nynmlb_sdnmlb_1	1	0	array	
+gid_2016_05_07_nynmlb_sdnmlb_1	4	3	dict	
+gid_2016_05_07_nynmlb_sdnmlb_1	3	0	array	
+gid_2016_05_07_nynmlb_sdnmlb_1	6	5	dict	
+gid_2016_05_07_nynmlb_sdnmlb_1	5	0	array	
+gid_2016_05_07_nynmlb_sdnmlb_1	8	7	dict	
+gid_2016_05_07_nynmlb_sdnmlb_1	7	0	array	
+gid_2016_05_07_nynmlb_sdnmlb_1	10	9	dict	
+gid_2016_05_07_nynmlb_sdnmlb_1	9	0	array	
+gid_2016_05_07_nynmlb_sdnmlb_1	0	0	plist	

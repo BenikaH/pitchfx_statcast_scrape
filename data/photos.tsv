@@ -1,0 +1,8 @@
+gid	key	parent_key	parent_table	text
+gid_2016_05_07_nynmlb_sdnmlb_1	0	0	game	
+gid_2016_05_07_nynmlb_sdnmlb_1	1	0	mlb	
+gid_2016_05_07_nynmlb_sdnmlb_1	2	2	home	
+gid_2016_05_07_nynmlb_sdnmlb_1	3	2	away	
+gid_2016_05_07_nynmlb_sdnmlb_1	4	3	home	
+gid_2016_05_07_nynmlb_sdnmlb_1	5	3	away	
+gid_2016_05_07_nynmlb_sdnmlb_1	6	1	mlb	

@@ -1,0 +1,6 @@
+event	gid	inning	inning_num	key	outs	parent_key	parent_table	pitcher_id	pitcher_name	runners_on	text
+549	gid_2016_05_07_nynmlb_sdnmlb_1	9th	9	0	1	3	batter	453646	Villanueva, Ca	0	
+555	gid_2016_05_07_nynmlb_sdnmlb_1	9th	9	1	1	4	batter	453646	Villanueva, Ca	0	
+91	gid_2016_05_07_nynmlb_sdnmlb_1	2nd	2	2	2	5	batter	448306	Shields	1	
+36	gid_2016_05_07_nynmlb_sdnmlb_1	1st	1	3	2	10	batter	448306	Shields	1	
+187	gid_2016_05_07_nynmlb_sdnmlb_1	3rd	3	4	1	14	batter	112526	Colon, B	2	

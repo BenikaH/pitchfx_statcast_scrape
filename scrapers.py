@@ -2,14 +2,18 @@ import datetime
 import requests
 from bs4 import BeautifulSoup
 from itertools import count
+from itertools import groupby
 import xml.etree.cElementTree as et
-
+import pandas as pd
 
 class MlbamGame:
-    def __init__(self, gid):
+    def __init__(self, gid, write_folder, include=None, exclude=None):
         if self._validate_id(gid):
             self.gid = gid
             self.url = self._make_mlbam_base_path(gid)
+            self.include = include
+            self.exclude = exclude
+            self.write_folder = write_folder
         else:
             raise Exception('{} is not a valid gameid. it must be before today and of the form \"gid_YYYY_MM_DD_<away><league>_<home><league>_<gamenum>\"'.format(gid))
 
@@ -96,7 +100,6 @@ class MlbamGame:
                     'gid': self.gid,
                     'node_type': node.tag,
                     'key': key,
-                    'child_tables': subtables,
                     'parent_table': referer, 
                     'parent_key': referer_key,
                     'text': text.strip(),
@@ -108,3 +111,16 @@ class MlbamGame:
         recurse_xml(root_node)
         return(target)
 
+    def write_tables(self, rows, rootpath, group_key='node_type'):
+        group_func = lambda x: x[group_key]
+        for key, group in groupby(sorted(rows, key=group_func), key=group_func):
+            table = pd.DataFrame(list(group))
+            table.drop(group_key, axis=1, inplace=True)
+            table.to_csv('{}{}.tsv'.format(rootpath, key), sep='\t', index=False)
+            
+    def scrape(self):
+        links = self.get_links_in_game(self.exclude, self.include)
+        for link in links:
+            tree = self.get_xml_tree(link)
+            table = self.xml_to_table(tree)
+            self.write_tables(table, self.write_folder)

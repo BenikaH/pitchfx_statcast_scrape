@@ -1,0 +1,31 @@
+ab	away_team_runs	batter	gid	home_team_runs	inning	key	outs	parent_key	parent_table	pbp	pitch	pitcher	seq	text	top	uid
+1		434158	gid_2016_05_07_nynmlb_sdnmlb_1		1	0		0	game		0	448306	1		Y	-1845147899
+1		434158	gid_2016_05_07_nynmlb_sdnmlb_1		1	1		0	game		0	448306	2		Y	-1845147868
+26	4	435522	gid_2016_05_07_nynmlb_sdnmlb_1	3	3	2	3	0	game		0	448306	1		N	-1114301655
+42	4	446263	gid_2016_05_07_nynmlb_sdnmlb_1	3	5	3	3	0	game		0	448306	1		N	1247253681
+51	4	434158	gid_2016_05_07_nynmlb_sdnmlb_1	3	6	4	3	0	game		0	448306	1		N	309176852
+78	6		gid_2016_05_07_nynmlb_sdnmlb_1	3	9	5	3	0	game		5		1		N	1188850445
+4	2	446263	gid_2016_05_07_nynmlb_sdnmlb_1	0	1	6	2	0	team	Yoenis Cespedes homers (10) on a fly ball to left field.   David Wright scores.  	0	448306	1		Y	-221700603
+12	2	112526	gid_2016_05_07_nynmlb_sdnmlb_1	0	2	7	2	0	team		0	448306	1		Y	1273466806
+12	4	434158	gid_2016_05_07_nynmlb_sdnmlb_1	0	2	8	2	0	team	Bartolo Colon homers (1) on a fly ball to left field.   Kevin Plawecki scores.  	0	448306	1		Y	1468550692
+19	4	493316	gid_2016_05_07_nynmlb_sdnmlb_1	0	3	9	0	0	team		0	448306	1		Y	-323080496
+20	4	446263	gid_2016_05_07_nynmlb_sdnmlb_1	0	3	10	2	0	team		0	448306	1		Y	306760826
+29	4	608700	gid_2016_05_07_nynmlb_sdnmlb_1	3	4	11	1	0	team		0	448306	1		Y	-1232528174
+44	4	435522	gid_2016_05_07_nynmlb_sdnmlb_1	3	6	12	0	0	team		0	448306	1		Y	1100398011
+45	4	452678	gid_2016_05_07_nynmlb_sdnmlb_1	3	6	13	1	0	team		0	448306	1		Y	1129027162
+55	4	493316	gid_2016_05_07_nynmlb_sdnmlb_1	3	7	14	2	0	team		0	543272	1		Y	219579484
+60	4	445055	gid_2016_05_07_nynmlb_sdnmlb_1	3	7	15	2	0	team	Pitching Change: Jerry Blevins replaces Bartolo Colon, batting 9th.  	0	460283	2		N	-483718354
+64	4	460283	gid_2016_05_07_nynmlb_sdnmlb_1	3	8	16	2	0	team	Offensive Substitution: Pinch-hitter Alejandro De Aza replaces Jerry Blevins.  	0	457477	1		Y	-1957769251
+64	4	457477	gid_2016_05_07_nynmlb_sdnmlb_1	3	8	17	2	0	team		0	453646	1		Y	-718497345
+65	4	571976	gid_2016_05_07_nynmlb_sdnmlb_1	3	8	18	0	0	team	Pitching Change: Addison Reed replaces Jerry Blevins, batting 9th, replacing  Alejandro De Aza.  	0	592665	2		N	-848825086
+71	5	624424	gid_2016_05_07_nynmlb_sdnmlb_1	3	9	19	1	0	team	David Wright homers (4) on a line drive to left field.  	0	453646	1		Y	345742306
+72	6	493316	gid_2016_05_07_nynmlb_sdnmlb_1	3	9	20	1	0	team	Michael Conforto homers (5) on a fly ball to right field.  	0	453646	1		Y	-1385824953
+76	6	519083	gid_2016_05_07_nynmlb_sdnmlb_1	3	9	21	0	0	team	Pitching Change: Jeurys Familia replaces Addison Reed, batting 3rd, replacing left fielder Michael Conforto.  	0	544727	1		N	-630913264
+24	4	445055	gid_2016_05_07_nynmlb_sdnmlb_1	0	3	22	1	1	team		0	112526	1		N	-1171559957
+24	4	571976	gid_2016_05_07_nynmlb_sdnmlb_1	3	3	23	1	1	team	Jon Jay homers (1) on a fly ball to right center field.    Derek Norris scores.    James Shields scores.  	0	112526	1		N	-2044020816
+52	4	434158	gid_2016_05_07_nynmlb_sdnmlb_1	3	7	24	0	1	team	Pitching Change: Brad Hand replaces James Shields, batting 9th.  	0	543272	1		Y	-1638746280
+59	4	543272	gid_2016_05_07_nynmlb_sdnmlb_1	3	7	25	1	1	team	Offensive Substitution: Pinch-hitter Jabari Blash replaces Brad Hand.  	0	518466	1		N	387682904
+59	4	518466	gid_2016_05_07_nynmlb_sdnmlb_1	3	7	26	1	1	team		0	112526	1		N	-1258741299
+61	4	435522	gid_2016_05_07_nynmlb_sdnmlb_1	3	8	27	0	1	team	Pitching Change: Carlos Villanueva replaces Brad Hand, batting 8th, replacing second baseman Jemile Weeks.  	0	453646	1		Y	542943372
+69	4	493351	gid_2016_05_07_nynmlb_sdnmlb_1	3	8	28	2	1	team		0	592665	1		N	2126778319
+77	6	453646	gid_2016_05_07_nynmlb_sdnmlb_1	3	9	29	1	1	team	Offensive Substitution: Pinch-hitter Alex Dickerson replaces Carlos Villanueva.  	0	543105	1		N	-389813716

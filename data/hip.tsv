@@ -1,0 +1,51 @@
+batter	des	gid	inning	key	parent_key	parent_table	pitcher	team	text	type	x	y
+434158	Flyout	gid_2016_05_07_nynmlb_sdnmlb_1	1	0	0	hitchart	448306	A		O	145.60	49.75
+493316	Home Run	gid_2016_05_07_nynmlb_sdnmlb_1	1	1	0	hitchart	448306	A		H	14.56	75.23
+445055	Lineout	gid_2016_05_07_nynmlb_sdnmlb_1	1	2	0	hitchart	112526	H		O	132.25	66.73
+571976	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	1	3	0	hitchart	112526	H		O	150.45	154.09
+461314	Lineout	gid_2016_05_07_nynmlb_sdnmlb_1	1	4	0	hitchart	112526	H		O	97.07	165.62
+435522	Lineout	gid_2016_05_07_nynmlb_sdnmlb_1	2	5	0	hitchart	448306	A		O	49.14	104.35
+452678	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	2	6	0	hitchart	448306	A		O	136.50	150.45
+608700	Double	gid_2016_05_07_nynmlb_sdnmlb_1	2	7	0	hitchart	448306	A		H	143.17	51.57
+112526	Home Run	gid_2016_05_07_nynmlb_sdnmlb_1	2	8	0	hitchart	448306	A		H	27.30	78.26
+434158	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	2	9	0	hitchart	448306	A		O	143.78	146.81
+477165	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	2	10	0	hitchart	112526	H		O	141.96	148.03
+493351	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	2	11	0	hitchart	112526	H		O	104.35	155.31
+493316	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	3	12	0	hitchart	448306	A		O	104.95	151.06
+519083	Single	gid_2016_05_07_nynmlb_sdnmlb_1	3	13	0	hitchart	112526	H		H	117.69	87.97
+457789	Pop Out	gid_2016_05_07_nynmlb_sdnmlb_1	3	14	0	hitchart	112526	H		O	76.44	141.96
+448306	Single	gid_2016_05_07_nynmlb_sdnmlb_1	3	15	0	hitchart	112526	H		H	77.65	107.99
+445055	Home Run	gid_2016_05_07_nynmlb_sdnmlb_1	3	16	0	hitchart	112526	H		H	161.37	24.27
+571976	Flyout	gid_2016_05_07_nynmlb_sdnmlb_1	3	17	0	hitchart	112526	H		O	199.59	114.66
+435522	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	4	18	0	hitchart	448306	A		O	157.73	167.44
+452678	Double	gid_2016_05_07_nynmlb_sdnmlb_1	4	19	0	hitchart	448306	A		H	212.33	81.29
+608700	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	4	20	0	hitchart	448306	A		O	100.71	155.91
+425834	Flyout	gid_2016_05_07_nynmlb_sdnmlb_1	4	21	0	hitchart	112526	H		O	81.29	44.29
+493351	Pop Out	gid_2016_05_07_nynmlb_sdnmlb_1	4	22	0	hitchart	112526	H		O	58.24	146.21
+519083	Pop Out	gid_2016_05_07_nynmlb_sdnmlb_1	4	23	0	hitchart	112526	H		O	132.25	167.44
+493316	Flyout	gid_2016_05_07_nynmlb_sdnmlb_1	5	24	0	hitchart	448306	A		O	169.87	107.99
+448306	Single	gid_2016_05_07_nynmlb_sdnmlb_1	5	25	0	hitchart	112526	H		H	134.68	98.28
+445055	Flyout	gid_2016_05_07_nynmlb_sdnmlb_1	5	26	0	hitchart	112526	H		O	143.78	68.55
+446263	Double	gid_2016_05_07_nynmlb_sdnmlb_1	6	27	0	hitchart	448306	A		H	219.00	104.95
+435522	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	6	28	0	hitchart	448306	A		O	156.52	166.23
+461314	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	6	29	0	hitchart	112526	H		O	126.79	139.53
+477165	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	6	30	0	hitchart	112526	H		O	163.19	167.44
+425834	Single	gid_2016_05_07_nynmlb_sdnmlb_1	6	31	0	hitchart	112526	H		H	103.13	81.29
+493351	Flyout	gid_2016_05_07_nynmlb_sdnmlb_1	6	32	0	hitchart	112526	H		O	77.65	92.21
+431151	Single	gid_2016_05_07_nynmlb_sdnmlb_1	7	33	0	hitchart	543272	A		H	104.35	87.36
+624424	Flyout	gid_2016_05_07_nynmlb_sdnmlb_1	7	34	0	hitchart	543272	A		O	82.51	124.97
+519083	Single	gid_2016_05_07_nynmlb_sdnmlb_1	7	35	0	hitchart	112526	H		H	165.01	91.00
+457789	Bunt Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	7	36	0	hitchart	112526	H		O	138.93	187.46
+435522	Lineout	gid_2016_05_07_nynmlb_sdnmlb_1	8	37	0	hitchart	453646	A		O	180.18	97.07
+608700	Double	gid_2016_05_07_nynmlb_sdnmlb_1	8	38	0	hitchart	453646	A		H	49.75	76.44
+457477	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	8	39	0	hitchart	453646	A		O	146.81	151.06
+571976	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	8	40	0	hitchart	592665	H		O	150.45	154.09
+477165	Single	gid_2016_05_07_nynmlb_sdnmlb_1	8	41	0	hitchart	592665	H		H	151.06	97.07
+425834	Single	gid_2016_05_07_nynmlb_sdnmlb_1	8	42	0	hitchart	592665	H		H	155.91	93.43
+434158	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	9	43	0	hitchart	453646	A		O	157.73	138.93
+431151	Home Run	gid_2016_05_07_nynmlb_sdnmlb_1	9	44	0	hitchart	453646	A		H	34.58	67.95
+624424	Home Run	gid_2016_05_07_nynmlb_sdnmlb_1	9	45	0	hitchart	453646	A		H	203.84	43.68
+446263	Flyout	gid_2016_05_07_nynmlb_sdnmlb_1	9	46	0	hitchart	453646	A		O	107.99	52.17
+435522	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	9	47	0	hitchart	453646	A		O	163.80	133.47
+519083	Flyout	gid_2016_05_07_nynmlb_sdnmlb_1	9	48	0	hitchart	544727	H		O	183.21	83.72
+543105	Groundout	gid_2016_05_07_nynmlb_sdnmlb_1	9	49	0	hitchart	544727	H		O	148.63	151.67

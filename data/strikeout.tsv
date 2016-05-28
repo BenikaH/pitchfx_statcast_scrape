@@ -1,0 +1,21 @@
+batter_id	batter_name	event	gid	key	parent_key	parent_table	text
+489267	Rosales	605	gid_2016_05_07_nynmlb_sdnmlb_1	0	0	pitcher	
+425834	Upton Jr.	115	gid_2016_05_07_nynmlb_sdnmlb_1	1	1	pitcher	
+461314	Kemp	208	gid_2016_05_07_nynmlb_sdnmlb_1	2	1	pitcher	
+457789	Weeks, J	299	gid_2016_05_07_nynmlb_sdnmlb_1	3	1	pitcher	
+571976	Myers	315	gid_2016_05_07_nynmlb_sdnmlb_1	4	1	pitcher	
+518466	Blash	448	gid_2016_05_07_nynmlb_sdnmlb_1	5	1	pitcher	
+461314	Kemp	513	gid_2016_05_07_nynmlb_sdnmlb_1	6	2	pitcher	
+493351	Ramirez, Al	536	gid_2016_05_07_nynmlb_sdnmlb_1	7	2	pitcher	
+445055	Jay	458	gid_2016_05_07_nynmlb_sdnmlb_1	8	3	pitcher	
+434158	Granderson	394	gid_2016_05_07_nynmlb_sdnmlb_1	9	4	pitcher	
+446263	Duda	425	gid_2016_05_07_nynmlb_sdnmlb_1	10	4	pitcher	
+624424	Conforto	27	gid_2016_05_07_nynmlb_sdnmlb_1	11	5	pitcher	
+446263	Duda	47	gid_2016_05_07_nynmlb_sdnmlb_1	12	5	pitcher	
+446263	Duda	155	gid_2016_05_07_nynmlb_sdnmlb_1	13	5	pitcher	
+112526	Colon, B	233	gid_2016_05_07_nynmlb_sdnmlb_1	14	5	pitcher	
+434158	Granderson	267	gid_2016_05_07_nynmlb_sdnmlb_1	15	5	pitcher	
+624424	Conforto	283	gid_2016_05_07_nynmlb_sdnmlb_1	16	5	pitcher	
+452678	Cabrera, A	339	gid_2016_05_07_nynmlb_sdnmlb_1	17	5	pitcher	
+112526	Colon, B	352	gid_2016_05_07_nynmlb_sdnmlb_1	18	5	pitcher	
+452678	Cabrera, A	476	gid_2016_05_07_nynmlb_sdnmlb_1	19	6	pitcher	
