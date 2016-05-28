@@ -1,6 +1,9 @@
 import datetime
 import requests
 from bs4 import BeautifulSoup
+from itertools import count
+import xml.etree.cElementTree as et
+
 
 class MlbamGame:
     def __init__(self, gid):
@@ -58,3 +61,50 @@ class MlbamGame:
         target = list()
         recurse_links(self.url)
         return(target)
+
+    @staticmethod
+    def get_xml_tree(path):
+        if path.startswith('http'):
+            response = requests.get(path)
+        xmltree = et.fromstring(response.text)
+        return(xmltree)
+    
+    def xml_to_table(self, root_node):
+        
+        def get_key(node):
+            if node in indexes:
+                return(next(indexes[node]))
+            else:
+                indexes[node] = count()
+                return(next(indexes[node]))
+
+        def recurse_xml(node, referer=None, referer_key=None):
+            key = get_key(node.tag)
+            subtables = set([child.tag for child in node.getchildren()]) or 'NONE'
+            attribs = dict()
+            text = ''
+
+            if bool(node.attrib):
+                attribs = node.attrib
+            if node.text:
+                text = node.text
+
+            for child in node.getchildren():
+                recurse_xml(child, node.tag, key)
+
+            target.append({
+                    'gid': self.gid,
+                    'node_type': node.tag,
+                    'key': key,
+                    'child_tables': subtables,
+                    'parent_table': referer, 
+                    'parent_key': referer_key,
+                    'text': text.strip(),
+                    **attribs
+                })
+
+        indexes = dict()
+        target = list()
+        recurse_xml(root_node)
+        return(target)
+
